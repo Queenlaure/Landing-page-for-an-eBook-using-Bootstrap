@@ -1,0 +1,22 @@
+{
+  "name": "bs-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Queenlaure/Landing-page-for-an-eBook-using-Bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Queenlaure/Landing-page-for-an-eBook-using-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/Queenlaure/Landing-page-for-an-eBook-using-Bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
